@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    tools:context="com.example.android.achmadfarhanfebrianto_1202154208_modul3.SplashScreenActivity">
+
+    
+    <ImageView
+        android:id="@+id/splash"
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:src="@drawable/aqua_logo"
+        android:layout_gravity="center"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        />
+
+</RelativeLayout>

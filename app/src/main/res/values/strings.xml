@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Air Mineral Ku</string>
+    <string-array name="merk_deskripsi">
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.t</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.</item>
+        <item>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque et enim dui. Nunc felis massa, rutrum a quam ac, consequat volutpat ipsum. Donec feugiat scelerisque velit, id fermentum magna malesuada et. Aenean pulvinar, quam vel fringilla tincidunt, dolor magna vulputate est, et consequat sem lacus sit amet tortor. Etiam eu magna leo. Duis nec lorem ac augue mollis semper. Praesent ultricies vitae est quis efficitur. Curabitur tempus elit sed pretium faucibus. Donec sodales laoreet ante vel dignissim. Donec est lacus, volutpat non malesuada at, sagittis vel enim.</item>
+
+    </string-array>
+    <string-array name="merk_tittle">
+        <item>Aqua</item>
+        <item>Pristine</item>
+        <item>Le Minerale</item>
+        <item>Cleo</item>
+        <item>Amidis</item>
+        <item>Ades</item>
+        <item>Club</item>
+        <item>Equil</item>
+        <item>Evian</item>
+        <item>Nestle</item>
+        <item>Vit</item>
+
+    </string-array>
+    <array name="sports_images">
+        <item>@drawable/aqua</item>
+        <item>@drawable/pristine</item>
+        <item>@drawable/leminerale</item>
+        <item>@drawable/cleo</item>
+        <item>@drawable/amidis</item>
+        <item>@drawable/ades</item>
+        <item>@drawable/club</item>
+        <item>@drawable/equil</item>
+        <item>@drawable/evian</item>
+        <item>@drawable/nestle</item>
+        <item>@drawable/vit</item>
+    </array>
+
+    <string-array name="details">
+        <item>Ini adalah Minuman Aqua</item>
+        <item>Ini adalah Minuman Pristine</item>
+        <item>Ini adalah Minuman Le Minerale</item>
+        <item>Ini adalah Minuman Cleo</item>
+        <item>Ini adalah Minuman Amidis</item>
+        <item>Ini adalah Minuman Ades</item>
+        <item>Ini adalah Minuman Club</item>
+        <item>Ini adalah Minuman Equil</item>
+        <item>Ini adalah Minuman Evian</item>
+        <item>Ini adalah Minuman Nestle</item>
+        <item>Ini adalah Minuman Vit</item>
+    </string-array>
+</resources>
